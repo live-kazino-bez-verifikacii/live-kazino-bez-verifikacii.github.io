@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: live-kazino-bez-verifikacii.github.io
+Sitemap: https://live-kazino-bez-verifikacii.github.io/sitemap.xml
